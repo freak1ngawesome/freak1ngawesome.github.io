@@ -86,6 +86,9 @@ header ul {
           align-items: center;
   color: #fff;
 }
+header ul li:hover{
+  transform: scale(1.1);
+}
 header ul li:after {
   content: '';
   display: block;
